@@ -24,6 +24,10 @@ Also, due to implementation limitations,
   However, the item does get processed by other handlers down the 'pipeline', as the compressed data handler never marks an item as 'processed'.
 * Items that get loaded from an URL or an app-bundle never get processed, as no data gets loaded really.
 
+Time Taken
+----------
+8 - 10 hrs
+
 
 TODO
 ----
